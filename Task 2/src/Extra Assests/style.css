@@ -106,74 +106,6 @@
     font-weight: 900;
 }
 
-/* Extra CSS */
-/*
-
-.footer {
-    text-align: center;
-}
-
-.footer .col {
-    width: 100%;
-    background-color: #070617;
-    bottom: 0;
-    height: auto;
-    float: left;
-    box-sizing: border-box;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    padding: 0px 20px 20px 20px;
-}
-
-.footer .col h1 {
-    margin: 0;
-    padding: 0;
-    font-family: inherit;
-    font-size: 18px;
-    line-height: 17px;
-    padding: 20px 0px 5px 0px;
-    color: rgba(255, 255, 255, 0.2);
-    font-weight: normal;
-    text-transform: uppercase;
-    letter-spacing: 0.250em;
-}
-
-.footer .col ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
-
-.footer .col ul li a {
-    color: #ffffffff;
-    transition: .2s;
-    text-decoration: none;
-}
-
-.footer .col ul li a:hover {
-    color: rgb(255, 174, 0);
-}
-
-.footer .col ul li {
-    color: #999999;
-    font-size: 14px;
-    font-family: inherit;
-    font-weight: bold;
-    padding: 5px 0px 5px 0px;
-    cursor: pointer;
-    transition: .2s;
-    -webkit-transition: .2s;
-    -moz-transition: .2s;
-}
-
-.footer .col ul li:hover {
-    color: #ffffff;
-    transition: .1s;
-    -webkit-transition: .1s;
-    -moz-transition: .1s;
-}
-
-*/
 
 .clearfix {
     clear: both;
@@ -198,26 +130,3 @@
     }
 }
 
-/* Small Devices, Tablets */
-@media only screen and (min-width : 768px) {
-    .column {
-        width: 50%;
-        float: left;
-    }
-}
-
-/* Medium Devices, Desktops */
-@media only screen and (min-width : 992px) {
-    .column {
-        width: 50%;
-        float: left;
-    }
-}
-
-/* Large Devices, Wide Screens */
-@media only screen and (min-width : 1200px) {
-    .column {
-        width: 33.3%;
-        float: left;
-    }
-}
