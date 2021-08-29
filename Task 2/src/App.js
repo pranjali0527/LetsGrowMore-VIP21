@@ -11,7 +11,7 @@ function App() {
   const handleClick = () => {
     setisButtonClick(true);
     // To fetch data from https://reqres.in/api/users?page=1
-    fetch("https://reqres.in/api/users?page=1")
+    fetch("https://reqres.in/api/users?page=2")
       .then((response) => response.json())
       .then((res) => {
         setUserData(res.data);
